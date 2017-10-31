@@ -1,0 +1,12 @@
+{
+  "name": "ls-travelling-salesman",
+  "version": "1.0.0",
+  "description": "Modularized js TSP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "cp src/* node_modules/"
+  },
+  "author": "Lambda School - Thomson Comer",
+  "license": "ISC"
+}
